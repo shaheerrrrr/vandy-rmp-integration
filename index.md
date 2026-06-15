@@ -80,7 +80,7 @@ with a revised effective date.
 
 ## Contact
 
-Questions about this policy can be sent to **[your contact email]**, or filed as
+Questions about this policy can be sent to **khanshaheer20008@gmail.com**, or filed as
 an issue on the project's GitHub repository.
 
 ## Disclaimer
