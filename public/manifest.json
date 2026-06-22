@@ -27,11 +27,14 @@
     "128": "icons/icon128.png"
   },
   "browser_specific_settings": {
-    "gecko": {
-      "id": "vandy-rmp@khanshaheer20008",
-      "strict_min_version": "121.0"
+  "gecko": {
+    "id": "vandy-rmp@khanshaheer20008",
+    "strict_min_version": "140.0",
+    "data_collection_permissions": {
+      "required": ["websiteContent"]
     }
-  },
+  }
+},
   "action": {
     "default_icon": {
       "16": "icons/icon16.png",
